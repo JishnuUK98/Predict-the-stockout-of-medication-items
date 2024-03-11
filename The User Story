@@ -1,0 +1,4 @@
+The User Story
+As a hospital operations manager, I want to see which items are stocking out the most and on which wards those stockouts* are occurring so that I can make sure to order enough stock and not run out, and therefore prevent cancelled procedures and improve patient safety.
+
+* A stockout is defined as an occurrence whenever a transaction results in no stock left in that ward for the particular item (i.e. when the total quantity of the item in the ward equals 0).
